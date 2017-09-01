@@ -12,3 +12,4 @@ I will try to mantain and add new functionality to this repository.
 
 * [![Coverage Status](https://coveralls.io/repos/robertrv/xeger/badge.png?branch=master)](https://coveralls.io/r/robertrv/xeger?branch=master)
 
+基于正则表达式的随机数据生成
